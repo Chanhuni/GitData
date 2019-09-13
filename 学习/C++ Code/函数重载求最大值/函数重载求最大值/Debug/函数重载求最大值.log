@@ -1,0 +1,8 @@
+﻿  源.cpp
+e:\c++ code\函数重载求最大值\函数重载求最大值\源.cpp(38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\c++ code\函数重载求最大值\函数重载求最大值\源.cpp(39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\c++ code\函数重载求最大值\函数重载求最大值\源.cpp(53): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\c++ code\函数重载求最大值\函数重载求最大值\源.cpp(53): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\c++ code\函数重载求最大值\函数重载求最大值\源.cpp(65): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\c++ code\函数重载求最大值\函数重载求最大值\源.cpp(65): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  函数重载求最大值.vcxproj -> E:\C++ Code\函数重载求最大值\Debug\函数重载求最大值.exe

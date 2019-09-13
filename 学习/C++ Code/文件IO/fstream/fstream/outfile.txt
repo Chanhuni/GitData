@@ -1,0 +1,6 @@
+The sum of the frist 3
+numbers in infile.dat
+is 6
+The sum of the frist 3
+numbers in infile.dat
+is 6
