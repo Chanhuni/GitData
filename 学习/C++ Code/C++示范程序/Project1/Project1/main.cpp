@@ -4,6 +4,10 @@ using namespace std;
 int main()
 {
 	int number_of_pods, peas_per_pod, total_peas;
+	double price = 7.54560000;
+	cout.setf(ios::fixed);	
+	cout.setf(ios::showpoint);
+	cout.precision(2);	//这三句会使double按小数点后2位来输出
 	cout << "Press return after entering a number.\n";
 	cout << "Enter the number of pods:\n";
 	cin >> number_of_pods;
@@ -31,6 +35,8 @@ int main()
 	cout << "       c       c               s      !!\n";
 	cout << "         c c c         s s s s        !!\n";
 	cout << "*******************************************\n\n" << "\n\n";
+	cout << R"(c:\files\)" << endl;	//输出结果是c:\files\ 
+	cout << "The price is $" << price << endl;
 	system("pause");
 	return 0;
 }
